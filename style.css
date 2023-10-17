@@ -1,11 +1,19 @@
-body{
-background: #cccccc;
+body {
+    background: #cccccc;
     }
 
-p {
+    h1{text-align:center
+  }
+
+
+  p {
  text-align: center
 }
 
- em strong{
+#missão{
+  font-size: 20px
+}
+
+em strong{
   color: #FF0000;
 }
